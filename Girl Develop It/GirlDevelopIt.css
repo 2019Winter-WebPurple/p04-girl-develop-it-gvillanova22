@@ -1,0 +1,61 @@
+/* Gia Villanova
+May 7
+Girl Develop It */
+
+* {
+
+}
+
+body {
+    font-family: monospace
+    font-size: 87.5%; 
+    background-color: mistyrose; }
+/* The background of the websit */
+
+header { background-color: salmon; 
+    font-family: fantasy; 
+    font-weight: 900;
+    font-size: 150%;
+    text-align: center}
+/* This is the heade3r of the website, and the color matches the logo */
+
+main { background-color: mistyrose; 
+    font-family: sans-serif; }
+    
+#logo {width:600px; height: 150px; float: none; }
+
+img { width: 350px; height: 250px; float: right; }
+/* These are some images that my influence a young woman coder */
+
+h2 {
+    font-family: cursive;
+    text-align: left;
+    text-decoration: underline;
+    font-size: 200%; }
+h3 {
+    font-family: cursive;
+    text-align: left;
+    text-decoration: underline;
+    font-size: 150%; }
+
+footer { background-color: mistyrose; 
+    font-family: sans-serif;
+    clear: right; }
+
+
+a:link {
+    color: blue;
+    text-decoration: underline;}
+
+a:visited { 
+    color: fuchsia;}
+
+a:hover, a:focus {
+    color: fuchsia;
+    text-decoration: underline;
+    font-size: 150% }
+
+a:active {
+    color: fuchsia;}
+/* These help to make the link section on the webpade more appealing. */
+
